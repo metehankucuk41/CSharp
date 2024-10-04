@@ -1,0 +1,14 @@
+C:\Users\Metehan\source\repos\CSharpEgitimKampi1\bin\Debug\net8.0\CSharpEgitimKampi1.exe
+C:\Users\Metehan\source\repos\CSharpEgitimKampi1\bin\Debug\net8.0\CSharpEgitimKampi1.deps.json
+C:\Users\Metehan\source\repos\CSharpEgitimKampi1\bin\Debug\net8.0\CSharpEgitimKampi1.runtimeconfig.json
+C:\Users\Metehan\source\repos\CSharpEgitimKampi1\bin\Debug\net8.0\CSharpEgitimKampi1.dll
+C:\Users\Metehan\source\repos\CSharpEgitimKampi1\bin\Debug\net8.0\CSharpEgitimKampi1.pdb
+C:\Users\Metehan\source\repos\CSharpEgitimKampi1\obj\Debug\net8.0\CSharpEgitimKampi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\source\repos\CSharpEgitimKampi1\obj\Debug\net8.0\CSharpEgitimKampi1.AssemblyInfoInputs.cache
+C:\Users\Metehan\source\repos\CSharpEgitimKampi1\obj\Debug\net8.0\CSharpEgitimKampi1.AssemblyInfo.cs
+C:\Users\Metehan\source\repos\CSharpEgitimKampi1\obj\Debug\net8.0\CSharpEgitimKampi1.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\source\repos\CSharpEgitimKampi1\obj\Debug\net8.0\CSharpEgitimKampi1.dll
+C:\Users\Metehan\source\repos\CSharpEgitimKampi1\obj\Debug\net8.0\refint\CSharpEgitimKampi1.dll
+C:\Users\Metehan\source\repos\CSharpEgitimKampi1\obj\Debug\net8.0\CSharpEgitimKampi1.pdb
+C:\Users\Metehan\source\repos\CSharpEgitimKampi1\obj\Debug\net8.0\CSharpEgitimKampi1.genruntimeconfig.cache
+C:\Users\Metehan\source\repos\CSharpEgitimKampi1\obj\Debug\net8.0\ref\CSharpEgitimKampi1.dll
